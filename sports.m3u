@@ -1,77 +1,237 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 2 HD 1920x1080
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS 1 [1024x576]
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS 2 [1024x576]
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS 2 HD [1920x1080]
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78379.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Sports 1 1920x1080
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BeIN Sports Extra 1920x1080
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS XTRA 1920x1080
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 3 HD 1920x1080
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS 3 HD [1920x1080]
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/89342.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports Xtra (720p) 1280x720
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 4 HD 1920x1080
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS 4 HD [1920x1080]
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78381.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Xtra (720) 1280x720
-https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BeIN Sports Xtra 1024x576
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS Ñ 1024x576
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS 5 HD [1920x1080]
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78382.ts
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS 6 HD [1920x1080]
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78383.ts
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS XTRA [1920x1080]
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS Ñ [1024x576]
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",beIN Sports Xtra en Espanol 1024x576
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS Ñ.HD2 1920x1080
+#EXTINF:-1 group-title="Sports Live",BEIN SPORTS Ñ.HD2 [1920x1080]
 http://190.83.9.222:8000/play/ca129
-#EXTINF:-1 tvg-logo="" group-title="Sports",TNT SPORTS PREMIUM 🇬🇧 720x480
+#EXTINF:-1 group-title="Sports Live",BeIN Sports Extra [1920x1080]
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Sports Live",BeIN Sports Xtra [1024x576]
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",Bein Sports 1 [1920x1080]
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Sports Live",Bein Xtra (720) [1280x720]
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+#EXTINF:-1 group-title="Sports Live",beIN SPORTS XTRA (1080p) [1024x576]
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",beIN SPORTS XTRA en Espanol (1080p) [640x360]
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="Sports Live",beIN Sports USA (576p) [768x432]
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+#EXTINF:-1 group-title="Sports Live",✔️ Bein Sports Xtra ñ *2 [1024x576]
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",TNT SPORTS 3 [1280x720]
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="Sports Live",TNT SPORTS PREMIUM 🇬🇧 [720x480]
 http://200.115.120.1:8000/play/ca040/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",TNT Sports (Backup) 720x480
+#EXTINF:-1 group-title="Sports Live",TNT Sports (Argentina) SD (576p) [720x480]
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:-1 group-title="Sports Live",TNT Sports (Backup) [720x480]
 http://45.232.210.1:18000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SKY SPORT LALIGA 🇲🇽 1920x1080
+#EXTINF:-1 group-title="Sports Live",TNT Sports (Chile) (480p) [720x480]
+http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1 group-title="Sports Live",SKY SPORT LALIGA 🇲🇽 [1920x1080]
 http://179.60.224.196:8000/play/a0i7/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",RS PREMIERE 1280x720
-https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",RS PREMIERE 2 1280x720
-https://video03.logicahost.com.br/rspremiere2/rspremiere2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",RS PREMIERE 4 1280x720
-https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Setanta Sport 🇺🇦 720x406
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN ARG 1280x720
-http://45.170.130.224:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 🇦🇷 1280x720
-http://181.118.156.46:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2 🇦🇷 1280x720
-http://191.97.49.82:8001/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2 🇨🇴 1280x720
-http://200.10.30.241:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2 (Principal) 1280x720
-http://181.176.155.7:8090/play/a1vv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 3 (Principal) 544x480
-http://45.167.1.136:8000/play/a02k
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN PREMIUM HD 1280x720
-http://181.205.130.194:4000/play/a0fk
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN5 HD 1280x720
-http://181.205.130.194:4000/play/a0fs
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN HD 720x480
-http://181.205.130.194:4000/play/a07j
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 4 (Backup) 720x480
-http://45.167.1.136:8000/play/a02l
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2 (Backup) 1920x1080
+#EXTINF:-1 group-title="Sports Live",Sky Sport [1280x720]
+http://45.5.118.152:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Sky Sports 1 (1080p) [1920x1080]
+http://45.228.234.9:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN (Brazil) (1080p) [1920x1080]
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN (United States) HD (720p) [1280x720]
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 2 (Backup) [1920x1080]
 http://45.167.1.136:8000/play/a06b
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 5 (Backup) 544x480
+#EXTINF:-1 group-title="Sports Live",ESPN 2 (Principal) [1280x720]
+http://181.176.155.7:8090/play/a1vv/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 2 (United States) HD (720p) [1280x720]
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 2 Latin America Colombia (1080p) [1280x720]
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 2 🇦🇷 [1280x720]
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 2 🇦🇷 [720x480]
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1 group-title="Sports Live",ESPN 2 🇨🇴 [1280x720]
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 3 (Principal) [544x480]
+http://45.167.1.136:8000/play/a02k
+#EXTINF:-1 group-title="Sports Live",ESPN 4 (Backup) [720x480]
+http://45.167.1.136:8000/play/a02l
+#EXTINF:-1 group-title="Sports Live",ESPN 4 (Brazil) (1080p) [1920x1080]
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 5 (Backup) [544x480]
 http://45.167.1.136:8000/play/a04g
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 6 (Principal) 1920x1080
+#EXTINF:-1 group-title="Sports Live",ESPN 6 (Principal) [1920x1080]
 http://45.167.1.136:8000/play/a06d
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 6 HD 1280x720
+#EXTINF:-1 group-title="Sports Live",ESPN 6 HD [1280x720]
 http://181.205.130.194:4000/play/a0eh
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN CO 720x480
+#EXTINF:-1 group-title="Sports Live",ESPN ARG [1280x720]
+http://45.170.130.224:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN CO [720x480]
 http://181.205.130.194:4000/play/a08n
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN PREMIUM CHI 1280x720
+#EXTINF:-1 group-title="Sports Live",ESPN HD [720x480]
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1 group-title="Sports Live",ESPN Latin America Colombia (1080p) [1280x720]
+http://181.78.211.244:8005/play/a08q/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN Latin America Mexico (1080p) [1920x1080]
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN PREMIUM CHI [1280x720]
 http://186.33.40.97:8789/play/22
-#EXTINF:-1 tvg-logo="" group-title="Sports",FOX Sports (720) 1280x720
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",WIN SPORTS 1920x1080
-http://181.78.71.71:18000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Setenta Sport 1 🇷🇺 1280x720
-http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN PREMIUM HD [1280x720]
+http://181.205.130.194:4000/play/a0fk
+#EXTINF:-1 group-title="Sports Live",ESPN Premium [1280x1080]
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN Premium HD (1080p) [1280x1080]
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN 🇦🇷 [1280x720]
+http://181.118.156.46:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPN5 HD [1280x720]
+http://181.205.130.194:4000/play/a0fs
+#EXTINF:-1 group-title="Sports Live",ESPN8: The Ocho (1080p) [1280x720]
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="Sports Live",ESPNU HD (720p) [1280x720]
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="Sports Live",CANAL+ 360 (576i) Ⓢ [1920x1080]
+http://92.114.85.87:8019/play/a003/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Canal+ Action Europe Magyar [1920x1080]
+http://193.33.39.108:9016/play/a02n
+#EXTINF:-1 group-title="Sports Live",Canal+ Domo (576i) Ⓢ [1920x1080]
+http://92.114.85.87:8019/play/a008/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Canal+ Kuchnia (576i) Ⓢ [1920x1080]
+http://92.114.85.87:8019/play/a009/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Canal+ Sport (1080p) [Geo-blocked] [1920x1080]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 group-title="Sports Live",Canal+ Sport 2 SK [1920x1080]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Sports Live",Canal+ Sport 4 SK [1920x1080]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Sports Live",Canal+ Sport 5 SK [1920x1080]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Sports Live",Canal+ Sport 6 SK [1920x1080]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Sports Live",Canal+ Sport 7 SK [1920x1080]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Sports Live",Canal+ Sport 8 SK [1920x1080]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 group-title="Sports Live",Astro Blitar TV (720p) [854x480]
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",Astroscience (576p) [704x396]
+https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="Sports Live",CNBC Arabiya (1080p) [1920x1080]
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 group-title="Sports Live",CNBC Asia HD (1080p) [854x480]
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+#EXTINF:-1 group-title="Sports Live",CNBC Awaaz (1080p) [320x180]
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="Sports Live",CNBC Bajar (1080p) [320x180]
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="Sports Live",CNBC Europe (720p) [960x540]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",CNBC TV18 (1080p) [320x180]
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="Sports Live",CNBC TV18 Prime HD (1080p) [320x180]
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="Sports Live",CNBC UK (1080p) [640x360]
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",CNBC-e [1920x1080]
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 group-title="Sports Live",Castrovillari Tv [640x360]
+http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",Cine Catastrophe by Pluto TV [640x360]
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
+#EXTINF:-1 group-title="Sports Live",Colors Cineplex (576p) [512x288]
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+#EXTINF:-1 group-title="Sports Live",Colors Cineplex Bollywood (576p) [720x576]
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
+#EXTINF:-1 group-title="Sports Live",Colors Cineplex Superhits (576p) [720x576]
+http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
+#EXTINF:-1 group-title="Sports Live",DAZN Combat (684p) [640x360]
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 group-title="Sports Live",DAZN Darts x Pluto TV [640x360]
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 group-title="Sports Live",DAZN Heldinnen x Pluto TV [640x360]
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC Comedy Vault (1080p) [768x432]
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC KJRH-TV (1080p) [768x432]
+https://amg01438-amg01438c8-vizio-us-10941.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC KNTV (1080p) [768x432]
+https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
+#EXTINF:-1 group-title="Sports Live",NBC KOAA-TV (1080p) [768x432]
+https://amg01438-amg01438c11-vizio-us-10928.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC KSBY (1080p) [768x432]
+https://amg01438-amg01438c17-vizio-us-10900.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC KSHB-TV (1080p) [768x432]
+https://amg01438-amg01438c35-vizio-us-10899.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC KTVH-DT (1080p) [768x432]
+https://amg01438-amg01438c26-vizio-us-10902.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC KXAS-TV (1080p) [768x432]
+https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
+#EXTINF:-1 group-title="Sports Live",NBC LX Home (1080p) [1920x1080]
+https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC News [768x432]
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="Sports Live",NBC News NOW (1080p) [768x432]
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:-1 group-title="Sports Live",NBC Sports NOW (1080p) [768x432]
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 group-title="Sports Live",NBC WBTS-CD (1080p) [768x432]
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+#EXTINF:-1 group-title="Sports Live",NBC WGBA-TV (1080p) [768x432]
+https://amg01438-amg01438c31-vizio-us-10906.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC WHEC-TV (1080p) [1280x720]
+https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC WMAQ-TV (1080p) [768x432]
+https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+#EXTINF:-1 group-title="Sports Live",NBC WMGT-TV (720p) [1280x720]
+https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC WNYT (1080p) [1280x720]
+https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC WPTV-TV (1080p) [768x432]
+https://amg01438-amg01438c2-vizio-us-10862.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC WTMJ-TV (1080p) [768x432]
+https://amg01438-amg01438c40-vizio-us-10892.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports Live",NBC WVIT (1080p) [768x432]
+https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
+#EXTINF:-1 group-title="Sports Live",NBCLX (1080p) [768x432]
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="Sports Live",Pluto TV Catastrofes [640x360]
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo East HD (1080p) [1024x576]
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo Internacional (1080p) [720x480]
+http://45.173.231.22:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo Internacional (1080p) [720x480]
+http://45.173.231.22:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo Internacional (1080p) [720x480]
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo Internacional (1080p) [1920x1080]
+http://168.196.127.137:6001/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo Internacional (1080p) [720x480]
+http://190.93.224.42/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo Internacional Central America (1080p) [720x480]
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo WKAQ-TV (1080p) [1920x1080]
+http://38.107.110.140:61400/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo WKAQ-TV (1080p) [1280x720]
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo WKAQ-TV (1080p) [1920x1080]
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 group-title="Sports Live",Telemundo West (720p) [1920x1080]
+http://45.5.117.57:8900/play/a058/index.m3u8
