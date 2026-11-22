@@ -6,8 +6,8 @@ Playlist IPTV sport — dikurasi & di-test otomatis (cek segmen video asli, buka
 
 | File | Isi |
 |---|---|
-| `sports.m3u` | 53 channel sport terverifikasi live |
-| `epl.m3u` | 25 channel fokus bola (beIN, TNT Sports, Sky Sport, Eleven, Setanta, dll) |
+| `sports.m3u` | 38 channel terverifikasi live (ffprobe, 2026-11-22) |
+| `epl.m3u` | 19 channel fokus bola (beIN, TNT Sports, ESPN, dll) |
 
 ## Cara pakai di VLC
 
