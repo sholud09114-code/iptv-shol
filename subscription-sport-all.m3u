@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/rai-sport-it.png" group-title="ITALY | 1600x900",IT: RAI SPORT+ HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53402
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/inter-tv-it.png" group-title="ITALY | 1280x720",IT: INTER TV HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53446
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/zona-dazn-it.png" group-title="ITALY | 960x540",IT: DAZN 1 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43059
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/Sky_sport_mix.png" group-title="ITALY | 1024x576",IT: SKY SPORT MIX SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/275634
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/super-tennis-it.png" group-title="ITALY | 1024x576",IT: Super Tennis SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/220969
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-24-it.png" group-title="ITALY | 1024x576",IT: SKY SPORT 24 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53405
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-max-it.png" group-title="ITALY | 1024x576",IT: Sky Sport Max SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53413
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-it-1171.png" group-title="ITALY | 1024x576",IT: Sky Sport 251 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53461
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-5-1175.png" group-title="ITALY | 1024x576",IT: Sky Sport 255 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53473
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-6-1176.png" group-title="ITALY | 1024x576",IT: Sky Sport 256 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/57385
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-7-1177.png" group-title="ITALY | 1024x576",IT: Sky Sport 257 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177749
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-8-1178.png" group-title="ITALY | 1024x576",IT: Sky Sport 258 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/76369
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-calcio-it.png" group-title="ITALY | 1024x576",IT: Sky Sport 259 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177751
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-f1-it.png" group-title="ITALY | 1024x576",IT: SKY SPORT F1 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/61574
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="ITALY | 768x432",IT: EUROSPORT 1 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177742
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ITALY | 768x432",IT: EUROSPORT 3 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177731
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ITALY | 768x432",IT: EUROSPORT 4 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177734
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="ITALY | 1280x720",IT: DAZN Event 1
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172471
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NFL-logo.png" group-title="ITALY | 960x540",IT: Dazn NFL Network
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172442
+#EXTINF:-1 tvg-logo="https://dhhmpfovkf2ub.cloudfront.net/content/dam/appstore/visual_update_2020/blog/blog_redbull_thumb_690x493.jpg" group-title="ITALY | 960x540",IT: Red Bull TV
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172443
+#EXTINF:-1 tvg-logo="https://unbeaten.com/assets/images/Unbeaten_Buffering.jpg" group-title="ITALY | 384x216",IT: Dazn Unbeaten
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172444
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 768x432",IT: EUROSPORT 5 SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/186540
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 768x432",IT: EUROSPORT 6
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/186543
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/inter-tv-it.png" group-title="ITALY | 704x396",IT: INTER TV SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190539
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/milan-tv-it.png" group-title="ITALY | 960x540",IT: MILAN TV
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190541
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport 24 SD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/42997
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Moto GP SD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43012
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/zona-dazn-it.png" group-title="ITALY | 960x540",IT: ZONA DAZN SD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172445
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/Sky_sport_mix.png" group-title="ITALY | 1280x720",IT: SKY SPORT MIX HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/275633
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/Sky_sport_legend.png" group-title="ITALY | 1280x720",IT: SKY SPORT LEGEND HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/275636
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NFL-logo.png" group-title="ITALY | 1280x720",IT: Dazn NFL Network HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/253868
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="ITALY | 1280x720",IT: Bianconera Juventus TV HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172248
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/Dazn-1.png" group-title="ITALY | 1280x720",IT: DAZN 1 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53479
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1280x720",IT: Dazn 2 HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43060
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" group-title="ITALY | 1280x720",IT: DAZN 3 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53482
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png?20170601155620" group-title="ITALY | 1920x1080",IT: DAZN 4 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53483
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png?20170601155620" group-title="ITALY | 1920x1080",IT: DAZN 5 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53484
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png?20170601155620" group-title="ITALY | 1920x1080",IT: DAZN 8 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53487
+#EXTINF:-1 tvg-logo="https://unbeaten.com/assets/images/Unbeaten_Buffering.jpg" group-title="ITALY | 848x480",IT: DAZN UNBEATEN HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190544
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/375px-Eurosport_1_Logo_2015.svg.png" group-title="ITALY | 1280x720",IT: EUROSPORT 1 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53433
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Eurosport 1 HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43024
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/375px-Eurosport_2_Logo_2015.svg.png" group-title="ITALY | 1280x720",IT: EUROSPORT 2 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53436
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ITALY | 1280x720",IT: EUROSPORT 3 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177733
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ITALY | 1280x720",IT: EUROSPORT 4 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177736
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1280x720",IT: EUROSPORT 5 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/186542
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1280x720",IT: EUROSPORT 6 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/186545
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/milan-tv-it.png" group-title="ITALY | 1280x720",IT: MILAN TV HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53448
+#EXTINF:-1 tvg-logo="https://dhhmpfovkf2ub.cloudfront.net/content/dam/appstore/visual_update_2020/blog/blog_redbull_thumb_690x493.jpg" group-title="ITALY | 1280x720",IT: RED BULL TV HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190546
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-24-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT 24 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53404
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport 24 HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/42996
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-it-1171.png" group-title="ITALY | 1280x720",IT: Sky Sport 251 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53460
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-2-1172.png" group-title="ITALY | 1280x720",IT: Sky Sport 252 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53463
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-3-1173.png" group-title="ITALY | 1280x720",IT: Sky Sport 253 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53466
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-4-1174.png" group-title="ITALY | 1280x720",IT: Sky Sport 254 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53469
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-5-1175.png" group-title="ITALY | 1280x720",IT: Sky Sport 255 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53472
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-6-1176.png" group-title="ITALY | 1280x720",IT: Sky Sport 256 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/57382
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-7-1177.png" group-title="ITALY | 1280x720",IT: Sky Sport 257 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172300
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-8-1178.png" group-title="ITALY | 1280x720",IT: Sky Sport 258 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/76368
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-calcio-it.png" group-title="ITALY | 1280x720",IT: Sky Sport 259 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177750
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-arena-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT ARENA HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53410
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Arena HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43002
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-calcio-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT CALCIO HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53457
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-f1-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT F1 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53430
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1280x720",IT: Sky Sport Formula 1 HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43008
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-golf-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT GOLF HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/73595
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-max-it.png" group-title="ITALY | 1280x720",IT: Sky Sport Max HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53412
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1280x720",IT: Sky Sport Mix HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43005
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-motogp-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT MOTO GP HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53415
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Moto GP HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43011
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-nba-it.png" group-title="ITALY | 1280x720",IT: Sky Sport Basket SD B
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43014
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-nba-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT BASKET HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53427
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-tennis-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT TENNIS HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53423
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-uno-it.png" group-title="ITALY | 1280x720",IT: SKY SPORT UNO HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53407
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Sportitalia.jpg" group-title="ITALY | 1280x720",IT: SPORT ITALIA HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53600
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sport Italia HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43023
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SI_Live_24_logo_%282019%29.svg/1200px-SI_Live_24_logo_%282019%29.svg.png" group-title="ITALY | 1920x1080",IT: SPORT ITALIA Live 24 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172252
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/super-tennis-it.png" group-title="ITALY | 1280x720",IT: Super Tennis HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53444
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/zona-dazn-it.png" group-title="ITALY | 1280x720",IT: ZONA DAZN HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53476
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/Sky_sport_mix.png" group-title="ITALY | 1920x1080",IT: SKY SPORT MIX FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/275632
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/Sky_sport_legend.png" group-title="ITALY | 1920x1080",IT: SKY SPORT LEGEND FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/275635
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NFL-logo.png" group-title="ITALY | 1920x1080",IT: Dazn NFL Network FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/253867
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/Dazn-1.png" group-title="ITALY | 1920x1080",IT: DAZN 1 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53478
+#EXTINF:-1 tvg-logo="https://unbeaten.com/assets/images/Unbeaten_Buffering.jpg" group-title="ITALY | 1920x1080",IT: DAZN UNBEATEN FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190543
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/equ-tv-it.png" group-title="ITALY | 640x480",IT: EQU TV FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/172247
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Eurosport 1 FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43025
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Eurosport 2 FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43026
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ITALY | 1920x1080",IT: EUROSPORT 3 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177732
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="ITALY | 1920x1080",IT: EUROSPORT 4 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/177735
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: EUROSPORT 5 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/186541
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: EUROSPORT 6 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/186544
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/inter-tv-it.png" group-title="ITALY | 1920x1080",IT: INTER TV FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190540
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/milan-tv-it.png" group-title="ITALY | 1920x1080",IT: MILAN TV FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190542
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Rai Sport+ FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43021
+#EXTINF:-1 tvg-logo="https://dhhmpfovkf2ub.cloudfront.net/content/dam/appstore/visual_update_2020/blog/blog_redbull_thumb_690x493.jpg" group-title="ITALY | 1920x1080",IT: RED BULL TV FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/190545
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/lazio-style-channel-it.png" group-title="ITALY | 1920x1080",IT: SKY LAZIO STYLE FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53450
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-24-it.png" group-title="ITALY | 1920x1080",IT: SKY SPORT 24 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53403
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport 24 FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/42995
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-sport-it-1171.png" group-title="ITALY | 1920x1080",IT: Sky Sport 251 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53459
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-2-1172.png" group-title="ITALY | 1920x1080",IT: Sky Sport 252 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53462
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-3-1173.png" group-title="ITALY | 1920x1080",IT: Sky Sport 253 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53465
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-4-1174.png" group-title="ITALY | 1920x1080",IT: Sky Sport 254 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53468
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-5-1175.png" group-title="ITALY | 1920x1080",IT: Sky Sport 255 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53471
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-6-1176.png" group-title="ITALY | 1920x1080",IT: Sky Sport 256 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/57381
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-7-1177.png" group-title="ITALY | 1920x1080",IT: Sky Sport 257 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/57383
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sky-calcio-8-1178.png" group-title="ITALY | 1920x1080",IT: Sky Sport 258 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/57384
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-calcio-it.png" group-title="ITALY | 1920x1080",IT: Sky Sport 259 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/174200
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Arena FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43001
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-calcio-it.png" group-title="ITALY | 1920x1080",IT: SKY SPORT CALCIO FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/53456
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Calcio FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43036
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Formula 1 FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43007
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/sky-sport-golf-it.png" group-title="ITALY | 1280x720",IT: Sky Sport Golf FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/73594
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1280x720",IT: Sky Sport Mix FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43004
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Moto GP FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43010
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1280x720",IT: Sky Sport Basket FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43013
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Sky Sport Uno FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/42998
+#EXTINF:-1 tvg-logo="" group-title="ITALY | 1920x1080",IT: Super Tennis FHD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/43029
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-2-uk.png" group-title="UK | 1920x1080",UK: TNT Sport 2 HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/13299
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/tnt-sports-4-uk.png" group-title="UK | 1920x1080",UK: TNT Sport 4 HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/13295
+#EXTINF:-1 tvg-logo="" group-title="UK | 1280x720",UK: Motors TV
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/11622
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/united-kingdom/sky-sports-nfl-hz-uk.png" group-title="UK | 1920x1080",UK: SKY SPORTS NFL HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/1898
+#EXTINF:-1 tvg-logo="" group-title="FRANCE | 1280x720",FR: CANAL+ SPORT HD LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/2267
+#EXTINF:-1 tvg-logo="" group-title="FRANCE | 1920x1080",FR: Eurosport 1 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/2296
+#EXTINF:-1 tvg-logo="" group-title="FRANCE | 1280x720",FR: RMC SPORT 2 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/12161
+#EXTINF:-1 tvg-logo="" group-title="FRANCE | 1280x720",FR: TF1 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/2097
+#EXTINF:-1 tvg-logo="" group-title="ARABIC | 1280x720",AR: AR: BEIN SPORTS  NBA LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/75385
+#EXTINF:-1 tvg-logo="" group-title="ARABIC | 1920x1080",AR: BEIN SPORTS 1 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/3539
+#EXTINF:-1 tvg-logo="" group-title="ARABIC | 1920x1080",AR: BEIN SPORTS 2 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/562
+#EXTINF:-1 tvg-logo="" group-title="ARABIC | 1920x1080",AR: BEIN SPORTS 3 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/563
+#EXTINF:-1 tvg-logo="" group-title="ARABIC | 1280x720",AR: BEIN SPORTS 4 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/564
+#EXTINF:-1 tvg-logo="" group-title="ARABIC | 720x576",AR: BEIN SPORTS 5 LQ
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/565
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MySports_8_Logo.svg/800px-MySports_8_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS EDGE FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/310318
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MySports_8_Logo.svg/800px-MySports_8_Logo.svg.png" group-title="SWISS | 1280x720",SWISS: SWISS SPORT HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/310316
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MySports_8_Logo.svg/800px-MySports_8_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: SWISS SPORT FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/310315
+#EXTINF:-1 tvg-logo="" group-title="SWISS/DE | 1920x1080",DE: MySports Un FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/310239
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1920x1080",CH: Sky Sport 1
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212958
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1920x1080",CH: Sky Sport 2
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212959
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1920x1080",CH | Sky Sport CH 3
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212960
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1920x1080",CH: Sky Sport 5
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212961
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1920x1080",CH: Sky Sport 5
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212962
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1920x1080",CH: Sky Sport 6
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212963
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1280x720",CH: Sky Sport 7
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212964
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1280x720",CH: Sky Sport 8
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212965
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1280x720",CH: Sky Sport 9
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212966
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Sky_Sport_Switzerland.svg" group-title="SWISS | 1280x720",CH | Sky Sport CH 10
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212967
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/MySports_one_Logo.svg/1024px-MySports_one_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 1 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82527
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MySports_2_Logo.svg/800px-MySports_2_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 2 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82528
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MySports_3_Logo.svg/800px-MySports_3_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 3 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82529
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MySports_4_Logo.svg/800px-MySports_4_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 4 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82530
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MySports_5_Logo.svg/800px-MySports_5_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 5 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82531
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MySports_6_Logo.svg/800px-MySports_6_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 6 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82532
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MySports_7_Logo.svg/800px-MySports_7_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 7 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82533
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MySports_8_Logo.svg/800px-MySports_8_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 8 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/82534
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MySports_8_Logo.svg/800px-MySports_8_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS 9 FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/195545
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MySports_8_Logo.svg/800px-MySports_8_Logo.svg.png" group-title="SWISS | 1920x1080",SWISS: MY SPORTS UN FHD FR
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/195546
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-eins-ch.png" group-title="SWISS/DE | 1920x1080",DE: MySports Eins FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54184
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-2-ch.png" group-title="SWISS | 1920x1080",CH | MySports 2
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54185
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-3-ch.png" group-title="SWISS/DE | 1920x1080",DE: MySports 3 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54186
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-4-ch.png" group-title="SWISS/DE | 1920x1080",DE: MySports 4 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54187
+#EXTINF:-1 tvg-logo="" group-title="SWISS/DE | 1920x1080",DE: MySports 5 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54188
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-6-ch.png" group-title="SWISS/DE | 1920x1080",DE: MySports 6 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54189
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-7-ch.png" group-title="SWISS/DE | 1920x1080",DE: MySports 7 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54190
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-8-ch.png" group-title="SWISS/DE | 1920x1080",DE: MySports 8 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54191
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-9-ch.png" group-title="SWISS/DE | 1920x1080",DE: MySports 9 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54192
+#EXTINF:-1 tvg-logo="http://arsenal-london001.dynamic-dns.net/pikon/italy/my-sports-10-ch.png" group-title="SWISS/DE | 1280x720",DE: MySports 10 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/195480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MySports_8_Logo.svg/800px-MySports_8_Logo.svg.png" group-title="SWISS/DE | 1920x1080",DE: MySports Edge FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/195544
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport D1
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196534
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport D2
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196533
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 1
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196532
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 3840x2160",CH: Bue Sport 1 UHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212954
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 2
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196531
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 3840x2160",CH: Blue Sport 2 UHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212955
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 3 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196530
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Bue Sport 3 UHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212956
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 4 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196529
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 4 UHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/212957
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 5 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196528
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 6 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196527
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 7 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196526
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 8 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196525
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 9 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196524
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 10 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196523
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 11 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196522
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 12 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196521
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 13 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196520
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 14 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196519
+#EXTINF:-1 tvg-logo="https://unitedsenses.tv/wp-content/uploads/2020/09/unitedsenses-blue-sport-rebranding-logo-1024x576.png" group-title="SWISS | 1920x1080",CH: Blue Sport 15 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/196518
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1920x1080",LT: GO3 SPORT 1 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/73106
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1280x720",LT: GO3 SPORT 1 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54348
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1920x1080",LT: GO3 SPORT 2 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/73107
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1280x720",LT: GO3 SPORT 2 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54349
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1920x1080",LT: GO3 SPORT 3 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/296195
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1280x720",LT: GO3 SPORT 3 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/296198
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1920x1080",LT: GO3 SPORT 4 FHD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/296204
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1280x720",LT: GO3 SPORT 4 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/296205
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1024x576",LT: SPORT 1
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/214930
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1280x720",LT: SPORT 1 BALTIC HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/54347
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1280x720",LT: SPORT 1 HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/215566
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1024x576",LT: TV3 SPORT OPEN
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/215571
+#EXTINF:-1 tvg-logo="" group-title="LITHUANIA | 1280x720",LT: TV3 SPORT OPEN HD
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/215572

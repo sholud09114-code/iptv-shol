@@ -1,0 +1,11 @@
+#EXTM3U
+# STATUS TES 22 Nov 2026: keempat channel MATI (HTTP 407 Proxy Auth Required)
+# Channel tetangga yang HIDUP: Sky Sport Ligue1 1 (303573), Sky Sport 16/17/18 (303570-303572)
+#EXTINF:-1 group-title="CH Premiere League (DEAD)",CH: Sky Sport Premiere League 1
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/303574
+#EXTINF:-1 group-title="CH Premiere League (DEAD)",CH: Sky Sport Premiere League 2
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/303575
+#EXTINF:-1 group-title="CH Premiere League (DEAD)",CH: Sky Sport Premiere League 3
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/303576
+#EXTINF:-1 group-title="CH Premiere League (DEAD)",CH: Sky Sport Premiere League 4
+http://1sn.ns1.name:18800/gpUYujp5/kx8kCxy/303577
